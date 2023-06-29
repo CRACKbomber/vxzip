@@ -1,0 +1,3 @@
+[submodule "src/xSource"]
+	path = src/xSource
+	url = https://github.com/CRACKbomber/xSource
